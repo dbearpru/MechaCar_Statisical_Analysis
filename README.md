@@ -3,7 +3,7 @@
 # Deliverable 1
 
 
-1.Vehicle length and vehicle ground clearance are statistcally likely to be non-randon amounts of variance both would have an impact on miles per gallon.
+1. Vehicle length and vehicle ground clearance are statistcally likely to be non-randon amounts of variance both would have an impact on miles per gallon.
 The opposite is true to vehicle weight, spoiler angle, and All Wheel Drive. There p-Values show a random amount of variance with the dataset. 
 
 2. The p-Value is much smaller at 5.35e-11 than the assumed significance level of .005%. Therefore we should reject the null hypothesis which means our slope is not zero.
@@ -57,3 +57,14 @@ When reviewing lot 3 we see it is statiscally different from the population mean
 # Deliverable 4
 
 # Study Design MechaCar vs. Competition 
+
+
+1. We are going to test the safety rating of MechaCars. Consumers are very concerned by safety.
+
+2. We will make our null hypothesis that is a safety rating of zero and an alternativ ehypothesis that the mean is not zero.
+
+3. We will use linear regression summaries to show how variables either impact or don't impact safety vs. competitors.
+
+4. We will need the safety rating of various cars and there features and dimensions to determine the safety ratings. 
+
+
